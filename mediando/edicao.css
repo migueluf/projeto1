@@ -1,0 +1,9 @@
+body{
+ background-color: #87ceeb;
+ list-style-type: none;
+}
+nav li{ 
+list-style-type: none;
+border: 1px solid;
+width: 20%;
+}
